@@ -14,7 +14,7 @@ O Clone do Spotify é um projeto prático desenvolvido para o **Programa Sharp C
 
 
 ## :rocket: Resultado final
-Para visualizar o resultado final do projeto, basta clicar aqui! 
+Para visualizar o resultado final do projeto, basta clicar [aqui](https://mariaffsilva.github.io/clone-spotify/)! 
 
 
 ## :wave: Autor
